@@ -54,7 +54,7 @@ export default async function Privacy() {
         </p>
         <h2 className="mb-3">Children&#39;s Privacy</h2>
         <p>
-          Bonu-s.com  is not intended for individuals under the age of 18.
+          Bonu-s.com is not intended for individuals under the age of 18.
           We do not knowingly collect personal information from individuals
           under 18. If you believe that we have inadvertently collected such
           information, please contact us so we can promptly remove it.
@@ -70,9 +70,9 @@ export default async function Privacy() {
         <p>
           If you have any questions, concerns, or requests related to your
           personal information or this Privacy Policy, please contact us at
-          <a href="mailto:admin@Bonu-s.com "> admin@Bonu-s.com </a>. We will make
+          <a href="mailto:admin@Bonu-s.com"> admin@Bonu-s.com</a>. We will make
           reasonable efforts to address your inquiries in a timely manner. By
-          using Bonu-s.com , you agree to the practices outlined in this
+          using Bonu-s.com, you agree to the practices outlined in this
           Privacy Policy. If you do not agree with any part of this policy,
           please refrain from using the Website.
         </p>
