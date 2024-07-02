@@ -7,6 +7,7 @@ import RandomWindow from "@/components/random/RandomWindow";
 // import BannerWindow from "@/components/banner/BannerWindow";
 import Script from "next/script";
 
+
 export const metadata: Metadata = {
   title:
     "Bonu-s.com: Your Comprehensive Source for Casino Reviews and Insights",
