@@ -90,13 +90,13 @@ export default async function Privacy() {
           herein, please refrain from using the Website. If you have any
           questions or concerns about these Terms & Conditions, please contact
           us at{" "}
-          <a href="mailto:info@Bonu-s.com">info@Bonu-s.com</a>.
+          <a href="mailto:info@bonu-s.com">info@bonu-s.com</a>.
         </p>
         <h2 className="mb-3">Subscription and domains</h2>
         <p>
           By subscribing to our newsletters, you agree to receive occasional
           promotional emails from both{" "}
-          <a target="_blank" href="https://Bonu-s.com/">
+          <a target="_blank" href="https://bonu-s.com/">
             Bonu-s.com
           </a>{" "}
         </p>
